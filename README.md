@@ -1,2 +1,2 @@
 # bcc_prometheus_grafana
-bcc act a expoter
+用BCC作为prometheus的一个expoter
